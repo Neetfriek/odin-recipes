@@ -1,0 +1,1 @@
+Odin Project practice following basic introduction to Git and HTML
